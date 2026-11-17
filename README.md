@@ -103,7 +103,3 @@ AutoMaint-Agent/
 
 ---
 *Created by [刘锐奇] | 2026*
-
----
-
-**最后一步**：把这个 README 里的 `[你的名字]` 换成你，然后连同你删减过的 `requirements.txt`、代码文件，一起 `git push` 到 GitHub 吧！去感受一下自己的项目被别人点 Star 的成就感！
